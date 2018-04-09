@@ -1,0 +1,18 @@
+[
+  {
+    "id": "35b22a57-b3f5-49c6-8819-1ba2f110e174",
+    "email": "arifads+bot@gmail.com",
+    "password_hash": "$2a$10$1GWl8Mw/.3Nkpq4r5xrY2eERYUWK0h4nZ.ui5HPLFh2gPPqlSvCBC",
+    "provider_credentials": [
+      {
+        "id": "1aee89c8-5cb0-4f86-9975-3fb3879d891b",
+        "email": "arifads+bot@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "meI/EnK8HpnlldnOFGbxNc+B5I9gGv2aXpNncTULhCeMg9ruh/kFIyuuPNfb\nNDplhMHIXCdF2HhaCMY9i23BIA==\n"
+      }
+    ]
+  }
+]
